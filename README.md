@@ -1,5 +1,5 @@
 it is a project creating my personal blog 
-https://startbootstrap.com/previews/clean-blog I used this form and changed a little bit with python flask framework
+https://startbootstrap.com/previews/clean-blog I used this form and changed a bit with python flask framework
 
 1. I divided header and footer section for multiple uses with {% include %} tag of jinja template.
 2. I replace blog's posts into post-data.txt by using npoint.io. and render it by using {% for %} tag in html file.
